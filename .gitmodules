@@ -1,0 +1,3 @@
+[submodule "modules/public"]
+	path = modules/public
+	url = git@github.com:tylerflint/pagoda-test-public.git
